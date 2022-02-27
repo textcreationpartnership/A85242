@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Festa Georgiana, or The gentries &amp; countries joy for the coronation of the King, on St. Georges day.</title>
+            <author>Ferus, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85242</idno>
+            <idno type="STC">Wing F822</idno>
+            <idno type="STC">Thomason E1080_17</idno>
+            <idno type="STC">ESTC R207880</idno>
+            <idno type="EEBO-CITATION">99866903</idno>
+            <idno type="PROQUEST">99866903</idno>
+            <idno type="VID">169346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169346)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1080[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Festa Georgiana, or The gentries &amp; countries joy for the coronation of the King, on St. Georges day.</title>
+                  <author>Ferus, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed in the year MDCLXI. [1661]</publisher>
+                  <pubPlace>London :</pubPlace>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Ferus. Cf. Wing.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Coronation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169346:1" rendition="simple:additions"/>
+            <p>FESTA GEORGIANA, OR THE Gentries &amp; Countries Joy FOR THE CORONATION OF THE KING, ON St. GEORGES DAY.</p>
+            <q xml:lang="lat">—Quis non laetabitur?—</q>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON, Printed in the Year MDCLXI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:169346:2"/>
+            <pb n="3" facs="tcp:169346:2"/>
+            <head>FESTA GEORGIANA, OR THE Gentries and Countries Joy, &amp;c.</head>
+            <lg>
+               <head>I.</head>
+               <l>
+                  <seg rend="decorInit">B</seg>Eloved Albion, Happy Soile,</l>
+               <l>The eye of Iſlands, Faireſt Land,</l>
+               <l>Who plac'd by careful Nature ſo doſt ſtand,</l>
+               <l>Thy fertile plaines do ſcarce require a Toile.</l>
+               <l>Darling of Neptune, and the Seas,</l>
+               <l>Whoſe waves do ſeem themſelves to pleaſe</l>
+               <l>When billowing in their unevened Ranks</l>
+               <l>They gladly come to kiſſe thy fruitful banks;</l>
+               <l>And joyful they may be</l>
+               <l>Honour'd in ſerving thee,</l>
+               <l>Thy Ships like numerous mountains may</l>
+               <l>Dance on their waves, &amp; on their billows play.</l>
+               <l>Whilſt the Caerulean god protects them from all harmes,</l>
+               <l>And ſtor'd with Gold returnes them with full tides into thine Armes.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>Happy in every thing that may</l>
+               <l>Enrich, or make a Kingdome bleſt,</l>
+               <l>Fully repleniſh'd with all goods, the beſt,</l>
+               <l>But yet moſt happy in this glorious day:</l>
+               <l>This day, (the ſum of all our joyes)</l>
+               <l>For without it they all were toyes,</l>
+               <l>Fancies Chimaera's, we could only boaſt,</l>
+               <l>The Gods had ſent their bounties to our Coaſt;</l>
+               <l>But would not now they were at hand</l>
+               <l>Permit, or ſuffer them to land;</l>
+               <l>As if they had a mind to ſhow</l>
+               <l>Their bleſſings to us, but ſtill let us know,</l>
+               <l>That though they ſhowred them, down with a plenteous hand,</l>
+               <l>Until confirm'd by this dayes work, they were at their command.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:169346:3"/>
+               <head>III.</head>
+               <l>But now the Seal is paſt, and they</l>
+               <l>Made ſure to us, the writings ſound</l>
+               <l>And we may ſafely ſay, the gods are bound</l>
+               <l>Still to continue them whilſt we obey:</l>
+               <l>Our happineſſe lies in our will,</l>
+               <l>Nor can we ever loſe it, till</l>
+               <l>We firſt break Covenants, and ſo once more</l>
+               <l>Render our ſelves more wretched then before.</l>
+               <l>But that's a fooliſh Tennant ſure,</l>
+               <l>Who having once made forfeiture</l>
+               <l>Of's Leaſe, when by the Courteſie</l>
+               <l>Of his good Land-lord, it reſtor'd ſhall be,</l>
+               <l>VVill deſperately adventure for to break his bonds, forget</l>
+               <l>The kindneſſe, and a forfeit make again of that and it.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>VVorthy St. George, Heroick Knight,</l>
+               <l>Mirror of valour, for which more</l>
+               <l>Shall we thy bleſſed Memory adore,</l>
+               <l>That with the Dragon thou maintain'dſt a fight,</l>
+               <l>And didſt the beauteous Virgin ſave,</l>
+               <l>VVho trembling ſtood to meet her grave,</l>
+               <l>Expecting when her Corps ſhould be made gueſt,</l>
+               <l>And lodg'd within the jawes of the fierce beaſt;</l>
+               <l>Or ſhall we Celebrate thy fame</l>
+               <l>That on thy day, and<note n="‖" place="margin">George Monck.</note> by thy name,</l>
+               <l>VVe freed are from a beaſt more fell,</l>
+               <l>Than three-headed monſtrous Beaſt of hell:</l>
+               <l>For on this day is fully quell'd a Dragon, who did ſtand,</l>
+               <l>Not ready to devoure a maid, but this whole flouriſhing Land.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>No more ſhall Traiterous Villains now</l>
+               <l>Such fond and fooliſh reaſons bring,</l>
+               <l>To juſtifie Rebellion 'gainſt their King,</l>
+               <l>'Cauſe yet the Crown had not enchas'd his brow</l>
+               <l>Such fiery Dragons now ſhall feel,</l>
+               <l>St. George can brandiſh ſtill his ſteel;</l>
+               <l>And that the ſtrong endeavours all are vain</l>
+               <l>Of thoſe would ſnatch us from our joyes again.</l>
+               <l>How would the gratefull Romans ſtrive,</l>
+               <l>To make the memory to live,</l>
+               <l>Of ſuch a Saint, how would they build</l>
+               <l>Him Altars, and due Adoration yield!</l>
+               <l>But if we do deny him that, let's not do this I pray,</l>
+               <l>That though we Deifie not the Saint, let's Canonize the day.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:169346:3"/>
+               <head>VI.</head>
+               <l>A day that needs no outward ſhow</l>
+               <l>To make it glorious, for within</l>
+               <l>Our hearts ſhould Pageants of joy be ſeen,</l>
+               <l>They are the ſacrifices which we owe</l>
+               <l>To ſuch tranſcendent good, and bliſſe,</l>
+               <l>To ſuch ſurpaſſing joy as this.</l>
+               <l>What need the Citizens ſuch fabricks rear,</l>
+               <l>As if they'd make them touch the very ſphear,</l>
+               <l>As if they would the ſtarres out vie,</l>
+               <l>And make St. Pauls Church not ſeem high.</l>
+               <l>'Twould be far better, could they boaſt</l>
+               <l>They ſacrific'd their loves, and not their coſt:</l>
+               <l>But we'el not blame them, ſince ſuch is their joy, they can't with hold,</l>
+               <l>To offer up to it, the god they moſt adore, their gold.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>Let them think ſo, they 'ave done their parts,</l>
+               <l>Wee'l ſtrive their offering to out do</l>
+               <l>Though not ſo rich, our victimes are more true;</l>
+               <l>They offer droſſe, we put up loyal hearts:</l>
+               <l>Hearts which arm'd with Royal love,</l>
+               <l>Still ſhall ſoare, and mount above</l>
+               <l>All their vaſt Pyramids, and high built toyes,</l>
+               <l>And there reſt fix'd for to confirme our joyes:</l>
+               <l>Whilſt the Trophees of their coſt,</l>
+               <l>Will not laſt ſix months at moſt,</l>
+               <l>But muſt down; Our Loyalty</l>
+               <l>Wee'l propagate unto eternity,</l>
+               <l>And make the envions Sun too ſoon ſhrink in his head above,</l>
+               <l>To ſee he muſt withdraw his beames, e're we withdraw our love.</l>
+            </lg>
+            <lg>
+               <head>VIII.</head>
+               <l>Nor will we be wanting ſtill,</l>
+               <l>To expreſſe our outward full content,</l>
+               <l>Though heaven to us the bleſſings have not ſent,</l>
+               <l>To do like them, what we can do we will.</l>
+               <l>Though we can't ſuch Monuments raiſe,</l>
+               <l>But the wonder of nine dayes,</l>
+               <l>Wee'l raiſe our voices three notes higher, ſing</l>
+               <l>Carols of joy to Glorious Charles our King.</l>
+               <l>And thus wee'l every year renew</l>
+               <l>Thoſe ſports ſhall make our joys ſtill new</l>
+               <l>Freely chant our thoughts, not cares,</l>
+               <l>Invent no plots, nor ſtudy jealous feares:</l>
+               <l>Strive to make thoſe our Counſellors, who do no goodneſſe own,</l>
+               <l>And but for faction and ſchiſm had never yet been known.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:169346:4"/>
+               <head>IX.</head>
+               <l>Our mirth ſhall harmleſſe be, yet free,</l>
+               <l>Mix'd both with love and Loyalty</l>
+               <l>Wee'l live as if the golden age were now</l>
+               <l>Return'd, and with the Crown on Charles his brow:</l>
+               <l>All thoughts of miſchief were exil'd,</l>
+               <l>Thoſe dayes return'd when we beguil'd</l>
+               <l>Our time with harmleſſe mirth, before the paines</l>
+               <l>Rebellion brings, were crept into our veines,</l>
+               <l>Before that May poles were thought gods,</l>
+               <l>Or King and Parliament at ods.</l>
+               <l>Before Lawn ſleeves were judg'd unholy,</l>
+               <l>Before 'twas thought a ſin to ſeem but jolly;</l>
+               <l>Before we run our ſelves into that deep abyſſe of ſhame,</l>
+               <l>And by overthrowing Church and State, Murdring our Sovereign.</l>
+            </lg>
+            <lg>
+               <head>X.</head>
+               <l>This is true mirth, will make us bleſt;</l>
+               <l>Thus wee'l enjoy our ſelves, no fears</l>
+               <l>Of innovations ſhall diſturb our reſt,</l>
+               <l>Or headlong ſet's together by the eares:</l>
+               <l>Wee'l bleſſed live in innocence,</l>
+               <l>Religion ſhall be no pretence</l>
+               <l>For Rebels, wee'l not credit Presbyt'ry,</l>
+               <l>'Cauſe we already know't ſo groſſe a lye.</l>
+               <l>Our Loyalty ſhall be our guard,</l>
+               <l>By that all miſchiefs ſhall be bar'd</l>
+               <l>From breaking in, for to annoy,</l>
+               <l>Or in the leaſt diſturb our well fix'd joy.</l>
+               <l>Plenty and riches too ſhall flow, while we enjoy our King,</l>
+               <l>Allegiance and Obedience 'tis, will peace and plenty bring.</l>
+            </lg>
+            <lg>
+               <head>XI.</head>
+               <l>Wee'l laugh at thoſe fond fools who do</l>
+               <l>Think harmleſſe mirth to be a ſin,</l>
+               <l>Believe their outward purity but a gin</l>
+               <l>To draw us to thoſe miſchiefs we muſt rue.</l>
+               <l>The Rochet and three corner'd Cap,</l>
+               <l>Shall be no more a Puritan trap</l>
+               <l>To drive us from our duty, wee'l believe</l>
+               <l>No longer there's a Dee'le in a Lawne ſleeve.</l>
+               <l>The High Commiſſion ſhall not fright us,</l>
+               <l>Alas! they cannot there indite us,</l>
+               <l>'Twas made for them whoſe purity</l>
+               <l>Seducing ſnares are, to catch others by.</l>
+               <l>Whilſt in a doleful tone, Sternehold and Hopkins they diſgorge,</l>
+               <l>Wee'l to the merry Organs ſing Hymns to the brave St. George.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:169346:4"/>
+               <head>XII.</head>
+               <l>To brave St. George, whoſe happy day</l>
+               <l>Thus puts an end to all our woe,</l>
+               <l>Our merry ſongs, our joyful hearts ſhall ſhow,</l>
+               <l>Not in dull ſtraines, for ever and for aye;</l>
+               <l>No our inſpired ſouls ſhall ſtretch</l>
+               <l>Out Paeans 'bove the Muſes reach.</l>
+               <l>Phaebus to yield his harp to us ſhan't grudge,</l>
+               <l>Were not dull Midas, but skil'd Orpheus Judge:</l>
+               <l>And yet our Songs ſhall ſomething teach</l>
+               <l>Not ſuch as Presbyterians preach,</l>
+               <l>Invectives, but more Loyal ſtraines,</l>
+               <l>The Products of the Sack flows in our veines:</l>
+               <l>That cleares our bloud, and makes it good, and that ſhall teach us ſing,</l>
+               <l>With tides of joy, exalted notes to our new Crowned King.</l>
+            </lg>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>SONG.</head>
+                        <lg>
+                           <head>I.</head>
+                           <l>REjoyce, Rejoyce,</l>
+                           <l>Strain, ſtrain your voice,</l>
+                           <l>A note or two yet higher,</l>
+                           <l>Let the Bells loud ring,</l>
+                           <l>Whilſt we merrily ſing,</l>
+                           <l>More ſweet than the heavenly quire.</l>
+                           <l>Our Woes are all paſt,</l>
+                           <l>For they could not long laſt,</l>
+                           <l>To vex and torment us more,</l>
+                           <l>Our joyes are made ſure,</l>
+                           <l>And will now endure</l>
+                           <l>More certain than ever before.</l>
+                           <lg type="refrain">
+                              <l>Then let us be merry, and drink full cups round</l>
+                              <l>For to day, for to day, for to day our King's Crown'd.</l>
+                           </lg>
+                        </lg>
+                        <lg>
+                           <head>2.</head>
+                           <l>By ſo much the more</l>
+                           <l>Were our ſorrows before,</l>
+                           <l>By ſo much our joy ſhall be greater,</l>
+                           <l>Though our griefs did long laſt,</l>
+                           <l>Yet now they are paſt,</l>
+                           <l>Our pleaſures will be but the ſweeter.</l>
+                           <l>We may ſing and carowſe,</l>
+                           <l>We may drink, we may bowſe,</l>
+                           <l>So ſtill we continue but loyal,</l>
+                           <l>Thoſe bleſſings which before</l>
+                           <l>Were deny'd us, we now more</l>
+                           <l>Will enjoy, for our plagues were our tryal.</l>
+                           <lg type="refrain">
+                              <l>Then let us be merry, and drink full cups round,</l>
+                              <l>For to day, for to day, for to day our Kings Crown'd.</l>
+                           </lg>
+                        </lg>
+                        <lg>
+                           <head>3.</head>
+                           <l>To St. George we will drink,</l>
+                           <l>To St. George we will skink,</l>
+                           <l>And offer whole quarts of Canary,</l>
+                           <l>Wee'l clear our hoarſe throats,</l>
+                           <l>And ſtrike up our notes,</l>
+                           <l>And make the whole world to be merry.</l>
+                           <pb n="8" facs="tcp:169346:5"/>
+                           <l> Wee'l faction forſwear,</l>
+                           <l>And all Rebels Laws dare,</l>
+                           <l>For he needs muſt be loyal that's jolly,</l>
+                           <l>When the Devil firſt gave birth</l>
+                           <l>To Rebellion on earth,</l>
+                           <l>The Midwife was Melancholy.</l>
+                           <lg type="refrain">
+                              <l>Then let us be merry, and drink full cups round,</l>
+                              <l>For to day, for to day, for to day our King's Crown'd.</l>
+                           </lg>
+                        </lg>
+                        <lg>
+                           <head>4.</head>
+                           <l>Who a health doth refuſe,</l>
+                           <l>Like the race of the Jews,</l>
+                           <l>Let him prove both a ſcandal and ſcorn,</l>
+                           <l>Let his Memory rot,</l>
+                           <l>And his Name be forgot,</l>
+                           <l>As if he had never been born.</l>
+                           <l>'Tis your merry, merry ſoules</l>
+                           <l>Who take freely their bowles,</l>
+                           <l>That ſtill are as conſtant as fate,</l>
+                           <l>Whilſt your dull-beaded ſots</l>
+                           <l>Are conſtruing of plots</l>
+                           <l>To ruine the Church and the State.</l>
+                           <lg type="refrain">
+                              <l>Then let us be merry, and drink full cups round,</l>
+                              <l>For to day, for to day, for to day, our King's Crown'd.</l>
+                           </lg>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <lg>
+               <head>XIII.</head>
+               <l>Thus in free jollity wee'l flow,</l>
+               <l>And yet not ſurfet in our joyes,</l>
+               <l>A moderation's good, to much annoys,</l>
+               <l>How far to paſſe, and where to ſtop we know;</l>
+               <l>The beſt of all things are made worſe</l>
+               <l>Gorrupted; bleſſings may be made a curſe,</l>
+               <l>No ſurfet's good, but the exceſſe of things</l>
+               <l>We love, the worſt of all diſeaſes brings.</l>
+               <l>All things ſhould have their time, though now</l>
+               <l>We joy at heavens ſmiling brow,</l>
+               <l>Yet wee'l not ſpend our joyes unto a dearth,</l>
+               <l>Leſt their deceaſe ſhould be our ſorrows birth;</l>
+               <lg type="refrain">
+                  <l>We can convert our ſmiles to teares, and make it our due cares</l>
+                  <l>To pray, ſince God hath bleſt us thus, that ſtill he'd hear our prayers.</l>
+               </lg>
+            </lg>
+            <lg>
+               <head>XIV.</head>
+               <l>Wee'l pray, that as our King is Crown'd</l>
+               <l>So he may reign for ever, no hard fate</l>
+               <l>Put Period to his Life, our bleſſings date,</l>
+               <l>That as in Crownes, he may in good abound:</l>
+               <l>That no Puritan tricks may move</l>
+               <l>Subjects from his, him from their love:</l>
+               <l>That no Rebellion may diſturb his eaſe,</l>
+               <l>Or break this Kingdomes but new-ſetled peace:</l>
+               <l>That both belov'd and fear'd, he like a god</l>
+               <l>On Earth, may live lov'd here, and fear'd abroad:</l>
+               <l>That we may happy live, to ſee</l>
+               <l>Brave Royal branches of this Princely tree:</l>
+               <lg type="refrain">
+                  <l>That as a George reſtor'd his Crown, the ſame George may advance,</l>
+                  <l>The Conquering St. Georges Croſſe, into the heart of France.</l>
+               </lg>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
